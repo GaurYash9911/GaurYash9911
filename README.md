@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaurYash9911
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yashgaur9911@gmail.com
 
